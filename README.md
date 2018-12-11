@@ -20,6 +20,23 @@
 
 `ctr` + `c`
 
+### how to push my code to GitHub
+
+* Check git status
+
+`git status`
+
+* Add changes to be committed
+
+`git add .`
+
+* Commit changes with a message
+
+`git commit -m "[message here]"`
+
+* Push commits to GitHub
+
+`git push`
 
 
 ---
